@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Dental Care",
+        "img": "https://i.ibb.co/6Z7cVDx/dentist-with-smile-144627-886.jpg",
+        "intro": "We have specilaist dentist doctor to help to everytime ",
+        "details": "Helping patients achieve good dental health & beautiful smile is a privilege & responsibility. For over 10 years, my team & I have proudly provided the best dental experience in Bangladesh. Our comfort-first approach is designed to meet the needs of you & your entire family.  At our dental office in Uttara, our philosophy of care is defined by our personalised service & advanced hi-tech treatments. We approach every patient with the same level of gentle, thorough care & attention we would give a member of our family- and it shows ! You will love the warm & friendly staff & relaxing environment.",
+        "dName": "Dr. Shihabur Rahman BDS, FCPS, FWFO (USA)",
+        "dImg": "https://www.laserdentalbd.com/wp-content/uploads/2019/11/dental-about-s.png",
+        "dDescription": "Are you looking for Best Dentist or Dentist near me or Best Dental Clinic in Uttara, Dhaka, Bangladesh? Yes, you are in the right place. LASER DENTAL is one of the most hi-tech dental clinics in Dhaka, serving all of your dental needs , with special emphasis on 3D Dental Scanning, Laser Dentistry, Invisalign Clear Aligner, Teeth whitening, Painless Injection Facility, Dental Braces, Dental Implant and Scanning whole mouth with world’s most advanced Intra-oral Caries & Plaque Scanner."
+    },
+    {
+        "id": 2,
+        "name": "Gym Care ",
+        "img": "https://i.ibb.co/mDpJVBk/young-sexy-woman-wearing-sportswear-sweat-proof-fabric-smartwatch-walking-treadmill-warm-up-before-r.jpg",
+        "intro": "Are You aware about your health ? Just join Our club ",
+        "details": "Our course instractor always help you to build a fit body and help maintains your health .As you Know exercise always help a man to maintain his body and it makes a man perfect and exercise helps a to protect from diseases .For this reasons we are always to give to suprime services and we have every equipment which you can use .  We approach every client  with the same level of gentle, thorough care & attention we would give a member of our family- and it shows ! You will love the warm & friendly staff & relaxing environment. ",
+        "dName": "Rock Sen ",
+        "dImg": "https://i.ibb.co/SB6FCWd/young-healthy-man-athlete-doing-exercise-with-ropes-gym-single-male-model-practicing-hard-training-h.jpg",
+        "dDescription": "Hi guys i am rocy . i am a instructtor of this club . We are always happy to have with you . i have been teching excercise form 10years and still continue it . so You can join us . I can insure one thing that is you will get the best services ."
+    },
+    {
+        "id": 3,
+        "name": "Eye Care",
+        "img": "https://imgk.timesnownews.com/story/1553264242-eyes.PNG?tr=w-400,h-300,fo-auto",
+        "intro": "Always care your eyes ",
+        "details": "Helping patients achieve good eye health & beautiful smile is a privilege & responsibility. For over 10 years, my team & I have proudly provided the best eye experience in Bangladesh. Our comfort-first approach is designed to meet the needs of you & your entire family.  At our eye care office in Uttara, our philosophy of care is defined by our personalised service & advanced hi-tech treatments. We approach every patient with the same level of gentle, thorough care & attention we would give a member of our family- and it shows ! You will love the warm & friendly staff & relaxing environment.",
+        "dName": "ZAHANGIR ALAM MUKUT",
+        "dImg": "https://bdeyehospital.com/media/images/asdfasdfa_Z1sGwVr.jpg",
+        "dDescription": "ZAHANGIR ALAM MUKUT; renowned phaco surgeon in Bangladesh and Consultant of Bangladesh Eye Hospital & Institute has passed away on 22nd June (Monday), 2020 by sudden massive cardiac attack. May ALLAH grant him Jannat. Please pray for his departed soul."
+    },
+    {
+        "id": 4,
+        "name": "Ambulance service",
+        "img": "https://image.freepik.com/free-photo/british-ambulance-parked-parking-lot_53876-63437.jpg",
+        "intro": "best ambulence servies in bougur . Always will you to help you ",
+        "detalis": "Helping patients achieve good sevice with  health & beautiful smile is a privilege & responsibility. For over 10 years, my team & I have proudly provided the best eye experience in Bangladesh. Our comfort-first approach is designed to meet the needs of you & your entire family.  At our eye care office in Uttara, our philosophy of care is defined by our personalised service & advanced hi-tech treatments. We approach every patient with the same level of gentle, thorough care & attention we would give a member of our family- and it shows ! You will love the warm & friendly staff & relaxing environment."
+    },
+    {
+        "id": 5,
+        "name": "Pharmacy",
+        "img": "https://i.ibb.co/RzTGfcz/warehouse-pharmacy-1161-231.jpg",
+        "intro": "just order and get your products form anywhere ",
+        "details": "We are online based pharamacy shop . you can get any kind of medicine form our shop and our special service is that we deliver your produts to your home or any place where you want to get it at  any time . Our servies is  open 24/7 days . "
+    },
+    {
+        "id": 6,
+        "name": "physical therapy",
+        "img": "https://img.freepik.com/free-photo/female-patient-undergoing-therapy-with-physiotherapist_23-2148836505.jpg?size=338&ext=jpg",
+        "intro": "get a chinese physical therapy ",
+        "detalis": "Helping patients achieve good sevice with  health & beautiful smile is a privilege & responsibility. For over 10 years, my team & I have proudly provided the best eye experience in Bangladesh. Our comfort-first approach is designed to meet the needs of you & your entire family.  At our eye care office in Uttara, our philosophy of care is defined by our personalised service & advanced hi-tech treatments. We approach every patient with the same level of gentle, thorough care & attention we would give a member of our family- and it shows ! You will love the warm & friendly staff & relaxing environment."
+    }
+]
